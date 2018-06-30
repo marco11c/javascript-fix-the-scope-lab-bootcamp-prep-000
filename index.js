@@ -27,4 +27,4 @@ function add2(n) {
 // NOTE: you only need to modify the code below this
  var theFunk = funkyFunction();
  
- theFunk();
+ theFunk = theFunk();
